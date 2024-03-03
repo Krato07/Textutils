@@ -1,2 +1,4 @@
 # Textutils
-React-Textutils(https://krato07.github.io/Textutils/)
+React-Textutils
+
+[Click Here](https://krato07.github.io/Textutils/)
